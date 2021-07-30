@@ -1,0 +1,871 @@
+UKPRN,HE provider,Country of HE provider,Region of HE provider,Academic Year,Qualification/Classification marker,Level of qualification/Degree classification,Number
+,Total,All,All,2019/20,First degree classification,First class honours,140285
+,Total,All,All,2019/20,First degree classification,Upper second class honours,189445
+,Total,All,All,2019/20,First degree classification,Lower second class honours,60900
+,Total,All,All,2019/20,First degree classification,Third class honours/Pass,11750
+,Total,All,All,2019/20,First degree classification,Unclassified,20595
+,Total,All,East Midlands,2019/20,First degree classification,First class honours,11285
+,Total,All,East Midlands,2019/20,First degree classification,Upper second class honours,17430
+,Total,All,East Midlands,2019/20,First degree classification,Lower second class honours,6025
+,Total,All,East Midlands,2019/20,First degree classification,Third class honours/Pass,1165
+,Total,All,East Midlands,2019/20,First degree classification,Unclassified,1110
+,Total,All,East of England,2019/20,First degree classification,First class honours,7240
+,Total,All,East of England,2019/20,First degree classification,Upper second class honours,9335
+,Total,All,East of England,2019/20,First degree classification,Lower second class honours,3650
+,Total,All,East of England,2019/20,First degree classification,Third class honours/Pass,780
+,Total,All,East of England,2019/20,First degree classification,Unclassified,1015
+,Total,All,London,2019/20,First degree classification,First class honours,23080
+,Total,All,London,2019/20,First degree classification,Upper second class honours,26490
+,Total,All,London,2019/20,First degree classification,Lower second class honours,9000
+,Total,All,London,2019/20,First degree classification,Third class honours/Pass,1865
+,Total,All,London,2019/20,First degree classification,Unclassified,2970
+,Total,All,North East,2019/20,First degree classification,First class honours,7190
+,Total,All,North East,2019/20,First degree classification,Upper second class honours,9590
+,Total,All,North East,2019/20,First degree classification,Lower second class honours,2680
+,Total,All,North East,2019/20,First degree classification,Third class honours/Pass,485
+,Total,All,North East,2019/20,First degree classification,Unclassified,565
+,Total,All,North West,2019/20,First degree classification,First class honours,16220
+,Total,All,North West,2019/20,First degree classification,Upper second class honours,20645
+,Total,All,North West,2019/20,First degree classification,Lower second class honours,7315
+,Total,All,North West,2019/20,First degree classification,Third class honours/Pass,1615
+,Total,All,North West,2019/20,First degree classification,Unclassified,1270
+,Total,All,Northern Ireland,2019/20,First degree classification,First class honours,2815
+,Total,All,Northern Ireland,2019/20,First degree classification,Upper second class honours,4650
+,Total,All,Northern Ireland,2019/20,First degree classification,Lower second class honours,1215
+,Total,All,Northern Ireland,2019/20,First degree classification,Third class honours/Pass,135
+,Total,All,Northern Ireland,2019/20,First degree classification,Unclassified,285
+,Total,All,Scotland,2019/20,First degree classification,First class honours,10220
+,Total,All,Scotland,2019/20,First degree classification,Upper second class honours,14295
+,Total,All,Scotland,2019/20,First degree classification,Lower second class honours,3605
+,Total,All,Scotland,2019/20,First degree classification,Third class honours/Pass,680
+,Total,All,Scotland,2019/20,First degree classification,Unclassified,8495
+,Total,All,South East,2019/20,First degree classification,First class honours,16485
+,Total,All,South East,2019/20,First degree classification,Upper second class honours,25485
+,Total,All,South East,2019/20,First degree classification,Lower second class honours,8155
+,Total,All,South East,2019/20,First degree classification,Third class honours/Pass,1635
+,Total,All,South East,2019/20,First degree classification,Unclassified,1330
+,Total,All,South West,2019/20,First degree classification,First class honours,11370
+,Total,All,South West,2019/20,First degree classification,Upper second class honours,17135
+,Total,All,South West,2019/20,First degree classification,Lower second class honours,4590
+,Total,All,South West,2019/20,First degree classification,Third class honours/Pass,615
+,Total,All,South West,2019/20,First degree classification,Unclassified,1005
+,Total,All,Wales,2019/20,First degree classification,First class honours,7555
+,Total,All,Wales,2019/20,First degree classification,Upper second class honours,9725
+,Total,All,Wales,2019/20,First degree classification,Lower second class honours,3585
+,Total,All,Wales,2019/20,First degree classification,Third class honours/Pass,615
+,Total,All,Wales,2019/20,First degree classification,Unclassified,485
+,Total,All,West Midlands,2019/20,First degree classification,First class honours,13215
+,Total,All,West Midlands,2019/20,First degree classification,Upper second class honours,17125
+,Total,All,West Midlands,2019/20,First degree classification,Lower second class honours,5940
+,Total,All,West Midlands,2019/20,First degree classification,Third class honours/Pass,1305
+,Total,All,West Midlands,2019/20,First degree classification,Unclassified,1105
+,Total,All,Yorkshire and The Humber,2019/20,First degree classification,First class honours,13605
+,Total,All,Yorkshire and The Humber,2019/20,First degree classification,Upper second class honours,17530
+,Total,All,Yorkshire and The Humber,2019/20,First degree classification,Lower second class honours,5140
+,Total,All,Yorkshire and The Humber,2019/20,First degree classification,Third class honours/Pass,850
+,Total,All,Yorkshire and The Humber,2019/20,First degree classification,Unclassified,960
+,Total,England,All,2019/20,First degree classification,First class honours,119695
+,Total,England,All,2019/20,First degree classification,Upper second class honours,160775
+,Total,England,All,2019/20,First degree classification,Lower second class honours,52495
+,Total,England,All,2019/20,First degree classification,Third class honours/Pass,10320
+,Total,England,All,2019/20,First degree classification,Unclassified,11325
+,Total,England,East Midlands,2019/20,First degree classification,First class honours,11285
+,Total,England,East Midlands,2019/20,First degree classification,Upper second class honours,17430
+,Total,England,East Midlands,2019/20,First degree classification,Lower second class honours,6025
+,Total,England,East Midlands,2019/20,First degree classification,Third class honours/Pass,1165
+,Total,England,East Midlands,2019/20,First degree classification,Unclassified,1110
+,Total,England,East of England,2019/20,First degree classification,First class honours,7240
+,Total,England,East of England,2019/20,First degree classification,Upper second class honours,9335
+,Total,England,East of England,2019/20,First degree classification,Lower second class honours,3650
+,Total,England,East of England,2019/20,First degree classification,Third class honours/Pass,780
+,Total,England,East of England,2019/20,First degree classification,Unclassified,1015
+,Total,England,London,2019/20,First degree classification,First class honours,23080
+,Total,England,London,2019/20,First degree classification,Upper second class honours,26490
+,Total,England,London,2019/20,First degree classification,Lower second class honours,9000
+,Total,England,London,2019/20,First degree classification,Third class honours/Pass,1865
+,Total,England,London,2019/20,First degree classification,Unclassified,2970
+,Total,England,North East,2019/20,First degree classification,First class honours,7190
+,Total,England,North East,2019/20,First degree classification,Upper second class honours,9590
+,Total,England,North East,2019/20,First degree classification,Lower second class honours,2680
+,Total,England,North East,2019/20,First degree classification,Third class honours/Pass,485
+,Total,England,North East,2019/20,First degree classification,Unclassified,565
+,Total,England,North West,2019/20,First degree classification,First class honours,16220
+,Total,England,North West,2019/20,First degree classification,Upper second class honours,20645
+,Total,England,North West,2019/20,First degree classification,Lower second class honours,7315
+,Total,England,North West,2019/20,First degree classification,Third class honours/Pass,1615
+,Total,England,North West,2019/20,First degree classification,Unclassified,1270
+,Total,England,South East,2019/20,First degree classification,First class honours,16485
+,Total,England,South East,2019/20,First degree classification,Upper second class honours,25485
+,Total,England,South East,2019/20,First degree classification,Lower second class honours,8155
+,Total,England,South East,2019/20,First degree classification,Third class honours/Pass,1635
+,Total,England,South East,2019/20,First degree classification,Unclassified,1330
+,Total,England,South West,2019/20,First degree classification,First class honours,11370
+,Total,England,South West,2019/20,First degree classification,Upper second class honours,17135
+,Total,England,South West,2019/20,First degree classification,Lower second class honours,4590
+,Total,England,South West,2019/20,First degree classification,Third class honours/Pass,615
+,Total,England,South West,2019/20,First degree classification,Unclassified,1005
+,Total,England,West Midlands,2019/20,First degree classification,First class honours,13215
+,Total,England,West Midlands,2019/20,First degree classification,Upper second class honours,17125
+,Total,England,West Midlands,2019/20,First degree classification,Lower second class honours,5940
+,Total,England,West Midlands,2019/20,First degree classification,Third class honours/Pass,1305
+,Total,England,West Midlands,2019/20,First degree classification,Unclassified,1105
+,Total,England,Yorkshire and The Humber,2019/20,First degree classification,First class honours,13605
+,Total,England,Yorkshire and The Humber,2019/20,First degree classification,Upper second class honours,17530
+,Total,England,Yorkshire and The Humber,2019/20,First degree classification,Lower second class honours,5140
+,Total,England,Yorkshire and The Humber,2019/20,First degree classification,Third class honours/Pass,850
+,Total,England,Yorkshire and The Humber,2019/20,First degree classification,Unclassified,960
+,Total,Northern Ireland,All,2019/20,First degree classification,First class honours,2815
+,Total,Northern Ireland,All,2019/20,First degree classification,Upper second class honours,4650
+,Total,Northern Ireland,All,2019/20,First degree classification,Lower second class honours,1215
+,Total,Northern Ireland,All,2019/20,First degree classification,Third class honours/Pass,135
+,Total,Northern Ireland,All,2019/20,First degree classification,Unclassified,285
+,Total,Northern Ireland,Northern Ireland,2019/20,First degree classification,First class honours,2815
+,Total,Northern Ireland,Northern Ireland,2019/20,First degree classification,Upper second class honours,4650
+,Total,Northern Ireland,Northern Ireland,2019/20,First degree classification,Lower second class honours,1215
+,Total,Northern Ireland,Northern Ireland,2019/20,First degree classification,Third class honours/Pass,135
+,Total,Northern Ireland,Northern Ireland,2019/20,First degree classification,Unclassified,285
+,Total,Scotland,All,2019/20,First degree classification,First class honours,10220
+,Total,Scotland,All,2019/20,First degree classification,Upper second class honours,14295
+,Total,Scotland,All,2019/20,First degree classification,Lower second class honours,3605
+,Total,Scotland,All,2019/20,First degree classification,Third class honours/Pass,680
+,Total,Scotland,All,2019/20,First degree classification,Unclassified,8495
+,Total,Scotland,Scotland,2019/20,First degree classification,First class honours,10220
+,Total,Scotland,Scotland,2019/20,First degree classification,Upper second class honours,14295
+,Total,Scotland,Scotland,2019/20,First degree classification,Lower second class honours,3605
+,Total,Scotland,Scotland,2019/20,First degree classification,Third class honours/Pass,680
+,Total,Scotland,Scotland,2019/20,First degree classification,Unclassified,8495
+,Total,Wales,All,2019/20,First degree classification,First class honours,7555
+,Total,Wales,All,2019/20,First degree classification,Upper second class honours,9725
+,Total,Wales,All,2019/20,First degree classification,Lower second class honours,3585
+,Total,Wales,All,2019/20,First degree classification,Third class honours/Pass,615
+,Total,Wales,All,2019/20,First degree classification,Unclassified,485
+,Total,Wales,Wales,2019/20,First degree classification,First class honours,7555
+,Total,Wales,Wales,2019/20,First degree classification,Upper second class honours,9725
+,Total,Wales,Wales,2019/20,First degree classification,Lower second class honours,3585
+,Total,Wales,Wales,2019/20,First degree classification,Third class honours/Pass,615
+,Total,Wales,Wales,2019/20,First degree classification,Unclassified,485
+,Total,All,All,2018/19,First degree classification,First class honours,115570
+,Total,All,All,2018/19,First degree classification,Upper second class honours,197655
+,Total,All,All,2018/19,First degree classification,Lower second class honours,78485
+,Total,All,All,2018/19,First degree classification,Third class honours/Pass,18135
+,Total,All,All,2018/19,First degree classification,Unclassified,22295
+,Total,All,East Midlands,2018/19,First degree classification,First class honours,9430
+,Total,All,East Midlands,2018/19,First degree classification,Upper second class honours,17320
+,Total,All,East Midlands,2018/19,First degree classification,Lower second class honours,7185
+,Total,All,East Midlands,2018/19,First degree classification,Third class honours/Pass,1620
+,Total,All,East Midlands,2018/19,First degree classification,Unclassified,920
+,Total,All,East of England,2018/19,First degree classification,First class honours,6405
+,Total,All,East of England,2018/19,First degree classification,Upper second class honours,9935
+,Total,All,East of England,2018/19,First degree classification,Lower second class honours,4160
+,Total,All,East of England,2018/19,First degree classification,Third class honours/Pass,1170
+,Total,All,East of England,2018/19,First degree classification,Unclassified,840
+,Total,All,London,2018/19,First degree classification,First class honours,18490
+,Total,All,London,2018/19,First degree classification,Upper second class honours,28540
+,Total,All,London,2018/19,First degree classification,Lower second class honours,12320
+,Total,All,London,2018/19,First degree classification,Third class honours/Pass,2940
+,Total,All,London,2018/19,First degree classification,Unclassified,2805
+,Total,All,North East,2018/19,First degree classification,First class honours,5715
+,Total,All,North East,2018/19,First degree classification,Upper second class honours,10070
+,Total,All,North East,2018/19,First degree classification,Lower second class honours,3495
+,Total,All,North East,2018/19,First degree classification,Third class honours/Pass,805
+,Total,All,North East,2018/19,First degree classification,Unclassified,490
+,Total,All,North West,2018/19,First degree classification,First class honours,13270
+,Total,All,North West,2018/19,First degree classification,Upper second class honours,20220
+,Total,All,North West,2018/19,First degree classification,Lower second class honours,9095
+,Total,All,North West,2018/19,First degree classification,Third class honours/Pass,2205
+,Total,All,North West,2018/19,First degree classification,Unclassified,1405
+,Total,All,Northern Ireland,2018/19,First degree classification,First class honours,2500
+,Total,All,Northern Ireland,2018/19,First degree classification,Upper second class honours,4825
+,Total,All,Northern Ireland,2018/19,First degree classification,Lower second class honours,1545
+,Total,All,Northern Ireland,2018/19,First degree classification,Third class honours/Pass,220
+,Total,All,Northern Ireland,2018/19,First degree classification,Unclassified,295
+,Total,All,Scotland,2018/19,First degree classification,First class honours,8080
+,Total,All,Scotland,2018/19,First degree classification,Upper second class honours,14830
+,Total,All,Scotland,2018/19,First degree classification,Lower second class honours,4755
+,Total,All,Scotland,2018/19,First degree classification,Third class honours/Pass,875
+,Total,All,Scotland,2018/19,First degree classification,Unclassified,10190
+,Total,All,South East,2018/19,First degree classification,First class honours,14680
+,Total,All,South East,2018/19,First degree classification,Upper second class honours,27620
+,Total,All,South East,2018/19,First degree classification,Lower second class honours,11900
+,Total,All,South East,2018/19,First degree classification,Third class honours/Pass,3090
+,Total,All,South East,2018/19,First degree classification,Unclassified,1465
+,Total,All,South West,2018/19,First degree classification,First class honours,9015
+,Total,All,South West,2018/19,First degree classification,Upper second class honours,18045
+,Total,All,South West,2018/19,First degree classification,Lower second class honours,5765
+,Total,All,South West,2018/19,First degree classification,Third class honours/Pass,1125
+,Total,All,South West,2018/19,First degree classification,Unclassified,1085
+,Total,All,Wales,2018/19,First degree classification,First class honours,6045
+,Total,All,Wales,2018/19,First degree classification,Upper second class honours,10070
+,Total,All,Wales,2018/19,First degree classification,Lower second class honours,4490
+,Total,All,Wales,2018/19,First degree classification,Third class honours/Pass,930
+,Total,All,Wales,2018/19,First degree classification,Unclassified,575
+,Total,All,West Midlands,2018/19,First degree classification,First class honours,10875
+,Total,All,West Midlands,2018/19,First degree classification,Upper second class honours,17455
+,Total,All,West Midlands,2018/19,First degree classification,Lower second class honours,7015
+,Total,All,West Midlands,2018/19,First degree classification,Third class honours/Pass,1805
+,Total,All,West Midlands,2018/19,First degree classification,Unclassified,1115
+,Total,All,Yorkshire and The Humber,2018/19,First degree classification,First class honours,11075
+,Total,All,Yorkshire and The Humber,2018/19,First degree classification,Upper second class honours,18735
+,Total,All,Yorkshire and The Humber,2018/19,First degree classification,Lower second class honours,6765
+,Total,All,Yorkshire and The Humber,2018/19,First degree classification,Third class honours/Pass,1355
+,Total,All,Yorkshire and The Humber,2018/19,First degree classification,Unclassified,1110
+,Total,England,All,2018/19,First degree classification,First class honours,98950
+,Total,England,All,2018/19,First degree classification,Upper second class honours,167935
+,Total,England,All,2018/19,First degree classification,Lower second class honours,67700
+,Total,England,All,2018/19,First degree classification,Third class honours/Pass,16115
+,Total,England,All,2018/19,First degree classification,Unclassified,11235
+,Total,England,East Midlands,2018/19,First degree classification,First class honours,9430
+,Total,England,East Midlands,2018/19,First degree classification,Upper second class honours,17320
+,Total,England,East Midlands,2018/19,First degree classification,Lower second class honours,7185
+,Total,England,East Midlands,2018/19,First degree classification,Third class honours/Pass,1620
+,Total,England,East Midlands,2018/19,First degree classification,Unclassified,920
+,Total,England,East of England,2018/19,First degree classification,First class honours,6405
+,Total,England,East of England,2018/19,First degree classification,Upper second class honours,9935
+,Total,England,East of England,2018/19,First degree classification,Lower second class honours,4160
+,Total,England,East of England,2018/19,First degree classification,Third class honours/Pass,1170
+,Total,England,East of England,2018/19,First degree classification,Unclassified,840
+,Total,England,London,2018/19,First degree classification,First class honours,18490
+,Total,England,London,2018/19,First degree classification,Upper second class honours,28540
+,Total,England,London,2018/19,First degree classification,Lower second class honours,12320
+,Total,England,London,2018/19,First degree classification,Third class honours/Pass,2940
+,Total,England,London,2018/19,First degree classification,Unclassified,2805
+,Total,England,North East,2018/19,First degree classification,First class honours,5715
+,Total,England,North East,2018/19,First degree classification,Upper second class honours,10070
+,Total,England,North East,2018/19,First degree classification,Lower second class honours,3495
+,Total,England,North East,2018/19,First degree classification,Third class honours/Pass,805
+,Total,England,North East,2018/19,First degree classification,Unclassified,490
+,Total,England,North West,2018/19,First degree classification,First class honours,13270
+,Total,England,North West,2018/19,First degree classification,Upper second class honours,20220
+,Total,England,North West,2018/19,First degree classification,Lower second class honours,9095
+,Total,England,North West,2018/19,First degree classification,Third class honours/Pass,2205
+,Total,England,North West,2018/19,First degree classification,Unclassified,1405
+,Total,England,South East,2018/19,First degree classification,First class honours,14680
+,Total,England,South East,2018/19,First degree classification,Upper second class honours,27620
+,Total,England,South East,2018/19,First degree classification,Lower second class honours,11900
+,Total,England,South East,2018/19,First degree classification,Third class honours/Pass,3090
+,Total,England,South East,2018/19,First degree classification,Unclassified,1465
+,Total,England,South West,2018/19,First degree classification,First class honours,9015
+,Total,England,South West,2018/19,First degree classification,Upper second class honours,18045
+,Total,England,South West,2018/19,First degree classification,Lower second class honours,5765
+,Total,England,South West,2018/19,First degree classification,Third class honours/Pass,1125
+,Total,England,South West,2018/19,First degree classification,Unclassified,1085
+,Total,England,West Midlands,2018/19,First degree classification,First class honours,10875
+,Total,England,West Midlands,2018/19,First degree classification,Upper second class honours,17455
+,Total,England,West Midlands,2018/19,First degree classification,Lower second class honours,7015
+,Total,England,West Midlands,2018/19,First degree classification,Third class honours/Pass,1805
+,Total,England,West Midlands,2018/19,First degree classification,Unclassified,1115
+,Total,England,Yorkshire and The Humber,2018/19,First degree classification,First class honours,11075
+,Total,England,Yorkshire and The Humber,2018/19,First degree classification,Upper second class honours,18735
+,Total,England,Yorkshire and The Humber,2018/19,First degree classification,Lower second class honours,6765
+,Total,England,Yorkshire and The Humber,2018/19,First degree classification,Third class honours/Pass,1355
+,Total,England,Yorkshire and The Humber,2018/19,First degree classification,Unclassified,1110
+,Total,Northern Ireland,All,2018/19,First degree classification,First class honours,2500
+,Total,Northern Ireland,All,2018/19,First degree classification,Upper second class honours,4825
+,Total,Northern Ireland,All,2018/19,First degree classification,Lower second class honours,1545
+,Total,Northern Ireland,All,2018/19,First degree classification,Third class honours/Pass,220
+,Total,Northern Ireland,All,2018/19,First degree classification,Unclassified,295
+,Total,Northern Ireland,Northern Ireland,2018/19,First degree classification,First class honours,2500
+,Total,Northern Ireland,Northern Ireland,2018/19,First degree classification,Upper second class honours,4825
+,Total,Northern Ireland,Northern Ireland,2018/19,First degree classification,Lower second class honours,1545
+,Total,Northern Ireland,Northern Ireland,2018/19,First degree classification,Third class honours/Pass,220
+,Total,Northern Ireland,Northern Ireland,2018/19,First degree classification,Unclassified,295
+,Total,Scotland,All,2018/19,First degree classification,First class honours,8080
+,Total,Scotland,All,2018/19,First degree classification,Upper second class honours,14830
+,Total,Scotland,All,2018/19,First degree classification,Lower second class honours,4755
+,Total,Scotland,All,2018/19,First degree classification,Third class honours/Pass,875
+,Total,Scotland,All,2018/19,First degree classification,Unclassified,10190
+,Total,Scotland,Scotland,2018/19,First degree classification,First class honours,8080
+,Total,Scotland,Scotland,2018/19,First degree classification,Upper second class honours,14830
+,Total,Scotland,Scotland,2018/19,First degree classification,Lower second class honours,4755
+,Total,Scotland,Scotland,2018/19,First degree classification,Third class honours/Pass,875
+,Total,Scotland,Scotland,2018/19,First degree classification,Unclassified,10190
+,Total,Wales,All,2018/19,First degree classification,First class honours,6045
+,Total,Wales,All,2018/19,First degree classification,Upper second class honours,10070
+,Total,Wales,All,2018/19,First degree classification,Lower second class honours,4490
+,Total,Wales,All,2018/19,First degree classification,Third class honours/Pass,930
+,Total,Wales,All,2018/19,First degree classification,Unclassified,575
+,Total,Wales,Wales,2018/19,First degree classification,First class honours,6045
+,Total,Wales,Wales,2018/19,First degree classification,Upper second class honours,10070
+,Total,Wales,Wales,2018/19,First degree classification,Lower second class honours,4490
+,Total,Wales,Wales,2018/19,First degree classification,Third class honours/Pass,930
+,Total,Wales,Wales,2018/19,First degree classification,Unclassified,575
+,Total,All,All,2017/18,First degree classification,First class honours,111655
+,Total,All,All,2017/18,First degree classification,Upper second class honours,195365
+,Total,All,All,2017/18,First degree classification,Lower second class honours,78400
+,Total,All,All,2017/18,First degree classification,Third class honours/Pass,18605
+,Total,All,All,2017/18,First degree classification,Unclassified,22160
+,Total,All,East Midlands,2017/18,First degree classification,First class honours,9220
+,Total,All,East Midlands,2017/18,First degree classification,Upper second class honours,16465
+,Total,All,East Midlands,2017/18,First degree classification,Lower second class honours,6540
+,Total,All,East Midlands,2017/18,First degree classification,Third class honours/Pass,1460
+,Total,All,East Midlands,2017/18,First degree classification,Unclassified,855
+,Total,All,East of England,2017/18,First degree classification,First class honours,6190
+,Total,All,East of England,2017/18,First degree classification,Upper second class honours,9845
+,Total,All,East of England,2017/18,First degree classification,Lower second class honours,4240
+,Total,All,East of England,2017/18,First degree classification,Third class honours/Pass,1200
+,Total,All,East of England,2017/18,First degree classification,Unclassified,865
+,Total,All,London,2017/18,First degree classification,First class honours,17830
+,Total,All,London,2017/18,First degree classification,Upper second class honours,28620
+,Total,All,London,2017/18,First degree classification,Lower second class honours,12620
+,Total,All,London,2017/18,First degree classification,Third class honours/Pass,2970
+,Total,All,London,2017/18,First degree classification,Unclassified,2775
+,Total,All,North East,2017/18,First degree classification,First class honours,5700
+,Total,All,North East,2017/18,First degree classification,Upper second class honours,9915
+,Total,All,North East,2017/18,First degree classification,Lower second class honours,3610
+,Total,All,North East,2017/18,First degree classification,Third class honours/Pass,840
+,Total,All,North East,2017/18,First degree classification,Unclassified,475
+,Total,All,North West,2017/18,First degree classification,First class honours,13685
+,Total,All,North West,2017/18,First degree classification,Upper second class honours,20510
+,Total,All,North West,2017/18,First degree classification,Lower second class honours,8935
+,Total,All,North West,2017/18,First degree classification,Third class honours/Pass,2285
+,Total,All,North West,2017/18,First degree classification,Unclassified,1450
+,Total,All,Northern Ireland,2017/18,First degree classification,First class honours,2450
+,Total,All,Northern Ireland,2017/18,First degree classification,Upper second class honours,4550
+,Total,All,Northern Ireland,2017/18,First degree classification,Lower second class honours,1660
+,Total,All,Northern Ireland,2017/18,First degree classification,Third class honours/Pass,240
+,Total,All,Northern Ireland,2017/18,First degree classification,Unclassified,290
+,Total,All,Scotland,2017/18,First degree classification,First class honours,7575
+,Total,All,Scotland,2017/18,First degree classification,Upper second class honours,15115
+,Total,All,Scotland,2017/18,First degree classification,Lower second class honours,4740
+,Total,All,Scotland,2017/18,First degree classification,Third class honours/Pass,945
+,Total,All,Scotland,2017/18,First degree classification,Unclassified,9925
+,Total,All,South East,2017/18,First degree classification,First class honours,14205
+,Total,All,South East,2017/18,First degree classification,Upper second class honours,27520
+,Total,All,South East,2017/18,First degree classification,Lower second class honours,11760
+,Total,All,South East,2017/18,First degree classification,Third class honours/Pass,3235
+,Total,All,South East,2017/18,First degree classification,Unclassified,1555
+,Total,All,South West,2017/18,First degree classification,First class honours,8455
+,Total,All,South West,2017/18,First degree classification,Upper second class honours,17670
+,Total,All,South West,2017/18,First degree classification,Lower second class honours,5750
+,Total,All,South West,2017/18,First degree classification,Third class honours/Pass,1130
+,Total,All,South West,2017/18,First degree classification,Unclassified,1060
+,Total,All,Wales,2017/18,First degree classification,First class honours,5765
+,Total,All,Wales,2017/18,First degree classification,Upper second class honours,10140
+,Total,All,Wales,2017/18,First degree classification,Lower second class honours,4760
+,Total,All,Wales,2017/18,First degree classification,Third class honours/Pass,945
+,Total,All,Wales,2017/18,First degree classification,Unclassified,615
+,Total,All,West Midlands,2017/18,First degree classification,First class honours,10350
+,Total,All,West Midlands,2017/18,First degree classification,Upper second class honours,16600
+,Total,All,West Midlands,2017/18,First degree classification,Lower second class honours,6880
+,Total,All,West Midlands,2017/18,First degree classification,Third class honours/Pass,1805
+,Total,All,West Midlands,2017/18,First degree classification,Unclassified,1140
+,Total,All,Yorkshire and The Humber,2017/18,First degree classification,First class honours,10230
+,Total,All,Yorkshire and The Humber,2017/18,First degree classification,Upper second class honours,18415
+,Total,All,Yorkshire and The Humber,2017/18,First degree classification,Lower second class honours,6900
+,Total,All,Yorkshire and The Humber,2017/18,First degree classification,Third class honours/Pass,1560
+,Total,All,Yorkshire and The Humber,2017/18,First degree classification,Unclassified,1155
+,Total,England,All,2017/18,First degree classification,First class honours,95865
+,Total,England,All,2017/18,First degree classification,Upper second class honours,165560
+,Total,England,All,2017/18,First degree classification,Lower second class honours,67240
+,Total,England,All,2017/18,First degree classification,Third class honours/Pass,16480
+,Total,England,All,2017/18,First degree classification,Unclassified,11335
+,Total,England,East Midlands,2017/18,First degree classification,First class honours,9220
+,Total,England,East Midlands,2017/18,First degree classification,Upper second class honours,16465
+,Total,England,East Midlands,2017/18,First degree classification,Lower second class honours,6540
+,Total,England,East Midlands,2017/18,First degree classification,Third class honours/Pass,1460
+,Total,England,East Midlands,2017/18,First degree classification,Unclassified,855
+,Total,England,East of England,2017/18,First degree classification,First class honours,6190
+,Total,England,East of England,2017/18,First degree classification,Upper second class honours,9845
+,Total,England,East of England,2017/18,First degree classification,Lower second class honours,4240
+,Total,England,East of England,2017/18,First degree classification,Third class honours/Pass,1200
+,Total,England,East of England,2017/18,First degree classification,Unclassified,865
+,Total,England,London,2017/18,First degree classification,First class honours,17830
+,Total,England,London,2017/18,First degree classification,Upper second class honours,28620
+,Total,England,London,2017/18,First degree classification,Lower second class honours,12620
+,Total,England,London,2017/18,First degree classification,Third class honours/Pass,2970
+,Total,England,London,2017/18,First degree classification,Unclassified,2775
+,Total,England,North East,2017/18,First degree classification,First class honours,5700
+,Total,England,North East,2017/18,First degree classification,Upper second class honours,9915
+,Total,England,North East,2017/18,First degree classification,Lower second class honours,3610
+,Total,England,North East,2017/18,First degree classification,Third class honours/Pass,840
+,Total,England,North East,2017/18,First degree classification,Unclassified,475
+,Total,England,North West,2017/18,First degree classification,First class honours,13685
+,Total,England,North West,2017/18,First degree classification,Upper second class honours,20510
+,Total,England,North West,2017/18,First degree classification,Lower second class honours,8935
+,Total,England,North West,2017/18,First degree classification,Third class honours/Pass,2285
+,Total,England,North West,2017/18,First degree classification,Unclassified,1450
+,Total,England,South East,2017/18,First degree classification,First class honours,14205
+,Total,England,South East,2017/18,First degree classification,Upper second class honours,27520
+,Total,England,South East,2017/18,First degree classification,Lower second class honours,11760
+,Total,England,South East,2017/18,First degree classification,Third class honours/Pass,3235
+,Total,England,South East,2017/18,First degree classification,Unclassified,1555
+,Total,England,South West,2017/18,First degree classification,First class honours,8455
+,Total,England,South West,2017/18,First degree classification,Upper second class honours,17670
+,Total,England,South West,2017/18,First degree classification,Lower second class honours,5750
+,Total,England,South West,2017/18,First degree classification,Third class honours/Pass,1130
+,Total,England,South West,2017/18,First degree classification,Unclassified,1060
+,Total,England,West Midlands,2017/18,First degree classification,First class honours,10350
+,Total,England,West Midlands,2017/18,First degree classification,Upper second class honours,16600
+,Total,England,West Midlands,2017/18,First degree classification,Lower second class honours,6880
+,Total,England,West Midlands,2017/18,First degree classification,Third class honours/Pass,1805
+,Total,England,West Midlands,2017/18,First degree classification,Unclassified,1140
+,Total,England,Yorkshire and The Humber,2017/18,First degree classification,First class honours,10230
+,Total,England,Yorkshire and The Humber,2017/18,First degree classification,Upper second class honours,18415
+,Total,England,Yorkshire and The Humber,2017/18,First degree classification,Lower second class honours,6900
+,Total,England,Yorkshire and The Humber,2017/18,First degree classification,Third class honours/Pass,1560
+,Total,England,Yorkshire and The Humber,2017/18,First degree classification,Unclassified,1155
+,Total,Northern Ireland,All,2017/18,First degree classification,First class honours,2450
+,Total,Northern Ireland,All,2017/18,First degree classification,Upper second class honours,4550
+,Total,Northern Ireland,All,2017/18,First degree classification,Lower second class honours,1660
+,Total,Northern Ireland,All,2017/18,First degree classification,Third class honours/Pass,240
+,Total,Northern Ireland,All,2017/18,First degree classification,Unclassified,290
+,Total,Northern Ireland,Northern Ireland,2017/18,First degree classification,First class honours,2450
+,Total,Northern Ireland,Northern Ireland,2017/18,First degree classification,Upper second class honours,4550
+,Total,Northern Ireland,Northern Ireland,2017/18,First degree classification,Lower second class honours,1660
+,Total,Northern Ireland,Northern Ireland,2017/18,First degree classification,Third class honours/Pass,240
+,Total,Northern Ireland,Northern Ireland,2017/18,First degree classification,Unclassified,290
+,Total,Scotland,All,2017/18,First degree classification,First class honours,7575
+,Total,Scotland,All,2017/18,First degree classification,Upper second class honours,15115
+,Total,Scotland,All,2017/18,First degree classification,Lower second class honours,4740
+,Total,Scotland,All,2017/18,First degree classification,Third class honours/Pass,945
+,Total,Scotland,All,2017/18,First degree classification,Unclassified,9925
+,Total,Scotland,Scotland,2017/18,First degree classification,First class honours,7575
+,Total,Scotland,Scotland,2017/18,First degree classification,Upper second class honours,15115
+,Total,Scotland,Scotland,2017/18,First degree classification,Lower second class honours,4740
+,Total,Scotland,Scotland,2017/18,First degree classification,Third class honours/Pass,945
+,Total,Scotland,Scotland,2017/18,First degree classification,Unclassified,9925
+,Total,Wales,All,2017/18,First degree classification,First class honours,5765
+,Total,Wales,All,2017/18,First degree classification,Upper second class honours,10140
+,Total,Wales,All,2017/18,First degree classification,Lower second class honours,4760
+,Total,Wales,All,2017/18,First degree classification,Third class honours/Pass,945
+,Total,Wales,All,2017/18,First degree classification,Unclassified,615
+,Total,Wales,Wales,2017/18,First degree classification,First class honours,5765
+,Total,Wales,Wales,2017/18,First degree classification,Upper second class honours,10140
+,Total,Wales,Wales,2017/18,First degree classification,Lower second class honours,4760
+,Total,Wales,Wales,2017/18,First degree classification,Third class honours/Pass,945
+,Total,Wales,Wales,2017/18,First degree classification,Unclassified,615
+,Total,All,All,2016/17,First degree classification,First class honours,102020
+,Total,All,All,2016/17,First degree classification,Upper second class honours,195045
+,Total,All,All,2016/17,First degree classification,Lower second class honours,81510
+,Total,All,All,2016/17,First degree classification,Third class honours/Pass,19750
+,Total,All,All,2016/17,First degree classification,Unclassified,22770
+,Total,All,East Midlands,2016/17,First degree classification,First class honours,7970
+,Total,All,East Midlands,2016/17,First degree classification,Upper second class honours,16250
+,Total,All,East Midlands,2016/17,First degree classification,Lower second class honours,6430
+,Total,All,East Midlands,2016/17,First degree classification,Third class honours/Pass,1470
+,Total,All,East Midlands,2016/17,First degree classification,Unclassified,910
+,Total,All,East of England,2016/17,First degree classification,First class honours,5755
+,Total,All,East of England,2016/17,First degree classification,Upper second class honours,9670
+,Total,All,East of England,2016/17,First degree classification,Lower second class honours,4155
+,Total,All,East of England,2016/17,First degree classification,Third class honours/Pass,1155
+,Total,All,East of England,2016/17,First degree classification,Unclassified,780
+,Total,All,London,2016/17,First degree classification,First class honours,16390
+,Total,All,London,2016/17,First degree classification,Upper second class honours,28905
+,Total,All,London,2016/17,First degree classification,Lower second class honours,13255
+,Total,All,London,2016/17,First degree classification,Third class honours/Pass,3345
+,Total,All,London,2016/17,First degree classification,Unclassified,2805
+,Total,All,North East,2016/17,First degree classification,First class honours,5170
+,Total,All,North East,2016/17,First degree classification,Upper second class honours,10055
+,Total,All,North East,2016/17,First degree classification,Lower second class honours,3645
+,Total,All,North East,2016/17,First degree classification,Third class honours/Pass,810
+,Total,All,North East,2016/17,First degree classification,Unclassified,540
+,Total,All,North West,2016/17,First degree classification,First class honours,11960
+,Total,All,North West,2016/17,First degree classification,Upper second class honours,20505
+,Total,All,North West,2016/17,First degree classification,Lower second class honours,9375
+,Total,All,North West,2016/17,First degree classification,Third class honours/Pass,2495
+,Total,All,North West,2016/17,First degree classification,Unclassified,1320
+,Total,All,Northern Ireland,2016/17,First degree classification,First class honours,2190
+,Total,All,Northern Ireland,2016/17,First degree classification,Upper second class honours,5015
+,Total,All,Northern Ireland,2016/17,First degree classification,Lower second class honours,1970
+,Total,All,Northern Ireland,2016/17,First degree classification,Third class honours/Pass,280
+,Total,All,Northern Ireland,2016/17,First degree classification,Unclassified,320
+,Total,All,Scotland,2016/17,First degree classification,First class honours,6960
+,Total,All,Scotland,2016/17,First degree classification,Upper second class honours,14645
+,Total,All,Scotland,2016/17,First degree classification,Lower second class honours,4945
+,Total,All,Scotland,2016/17,First degree classification,Third class honours/Pass,1015
+,Total,All,Scotland,2016/17,First degree classification,Unclassified,10085
+,Total,All,South East,2016/17,First degree classification,First class honours,13805
+,Total,All,South East,2016/17,First degree classification,Upper second class honours,27900
+,Total,All,South East,2016/17,First degree classification,Lower second class honours,12560
+,Total,All,South East,2016/17,First degree classification,Third class honours/Pass,3560
+,Total,All,South East,2016/17,First degree classification,Unclassified,1865
+,Total,All,South West,2016/17,First degree classification,First class honours,7880
+,Total,All,South West,2016/17,First degree classification,Upper second class honours,17440
+,Total,All,South West,2016/17,First degree classification,Lower second class honours,5775
+,Total,All,South West,2016/17,First degree classification,Third class honours/Pass,1040
+,Total,All,South West,2016/17,First degree classification,Unclassified,945
+,Total,All,Wales,2016/17,First degree classification,First class honours,5330
+,Total,All,Wales,2016/17,First degree classification,Upper second class honours,10365
+,Total,All,Wales,2016/17,First degree classification,Lower second class honours,5225
+,Total,All,Wales,2016/17,First degree classification,Third class honours/Pass,1080
+,Total,All,Wales,2016/17,First degree classification,Unclassified,670
+,Total,All,West Midlands,2016/17,First degree classification,First class honours,9140
+,Total,All,West Midlands,2016/17,First degree classification,Upper second class honours,15870
+,Total,All,West Midlands,2016/17,First degree classification,Lower second class honours,6855
+,Total,All,West Midlands,2016/17,First degree classification,Third class honours/Pass,1910
+,Total,All,West Midlands,2016/17,First degree classification,Unclassified,1230
+,Total,All,Yorkshire and The Humber,2016/17,First degree classification,First class honours,9470
+,Total,All,Yorkshire and The Humber,2016/17,First degree classification,Upper second class honours,18430
+,Total,All,Yorkshire and The Humber,2016/17,First degree classification,Lower second class honours,7330
+,Total,All,Yorkshire and The Humber,2016/17,First degree classification,Third class honours/Pass,1590
+,Total,All,Yorkshire and The Humber,2016/17,First degree classification,Unclassified,1305
+,Total,England,All,2016/17,First degree classification,First class honours,87540
+,Total,England,All,2016/17,First degree classification,Upper second class honours,165025
+,Total,England,All,2016/17,First degree classification,Lower second class honours,69375
+,Total,England,All,2016/17,First degree classification,Third class honours/Pass,17375
+,Total,England,All,2016/17,First degree classification,Unclassified,11695
+,Total,England,East Midlands,2016/17,First degree classification,First class honours,7970
+,Total,England,East Midlands,2016/17,First degree classification,Upper second class honours,16250
+,Total,England,East Midlands,2016/17,First degree classification,Lower second class honours,6430
+,Total,England,East Midlands,2016/17,First degree classification,Third class honours/Pass,1470
+,Total,England,East Midlands,2016/17,First degree classification,Unclassified,910
+,Total,England,East of England,2016/17,First degree classification,First class honours,5755
+,Total,England,East of England,2016/17,First degree classification,Upper second class honours,9670
+,Total,England,East of England,2016/17,First degree classification,Lower second class honours,4155
+,Total,England,East of England,2016/17,First degree classification,Third class honours/Pass,1155
+,Total,England,East of England,2016/17,First degree classification,Unclassified,780
+,Total,England,London,2016/17,First degree classification,First class honours,16390
+,Total,England,London,2016/17,First degree classification,Upper second class honours,28905
+,Total,England,London,2016/17,First degree classification,Lower second class honours,13255
+,Total,England,London,2016/17,First degree classification,Third class honours/Pass,3345
+,Total,England,London,2016/17,First degree classification,Unclassified,2805
+,Total,England,North East,2016/17,First degree classification,First class honours,5170
+,Total,England,North East,2016/17,First degree classification,Upper second class honours,10055
+,Total,England,North East,2016/17,First degree classification,Lower second class honours,3645
+,Total,England,North East,2016/17,First degree classification,Third class honours/Pass,810
+,Total,England,North East,2016/17,First degree classification,Unclassified,540
+,Total,England,North West,2016/17,First degree classification,First class honours,11960
+,Total,England,North West,2016/17,First degree classification,Upper second class honours,20505
+,Total,England,North West,2016/17,First degree classification,Lower second class honours,9375
+,Total,England,North West,2016/17,First degree classification,Third class honours/Pass,2495
+,Total,England,North West,2016/17,First degree classification,Unclassified,1320
+,Total,England,South East,2016/17,First degree classification,First class honours,13805
+,Total,England,South East,2016/17,First degree classification,Upper second class honours,27900
+,Total,England,South East,2016/17,First degree classification,Lower second class honours,12560
+,Total,England,South East,2016/17,First degree classification,Third class honours/Pass,3560
+,Total,England,South East,2016/17,First degree classification,Unclassified,1865
+,Total,England,South West,2016/17,First degree classification,First class honours,7880
+,Total,England,South West,2016/17,First degree classification,Upper second class honours,17440
+,Total,England,South West,2016/17,First degree classification,Lower second class honours,5775
+,Total,England,South West,2016/17,First degree classification,Third class honours/Pass,1040
+,Total,England,South West,2016/17,First degree classification,Unclassified,945
+,Total,England,West Midlands,2016/17,First degree classification,First class honours,9140
+,Total,England,West Midlands,2016/17,First degree classification,Upper second class honours,15870
+,Total,England,West Midlands,2016/17,First degree classification,Lower second class honours,6855
+,Total,England,West Midlands,2016/17,First degree classification,Third class honours/Pass,1910
+,Total,England,West Midlands,2016/17,First degree classification,Unclassified,1230
+,Total,England,Yorkshire and The Humber,2016/17,First degree classification,First class honours,9470
+,Total,England,Yorkshire and The Humber,2016/17,First degree classification,Upper second class honours,18430
+,Total,England,Yorkshire and The Humber,2016/17,First degree classification,Lower second class honours,7330
+,Total,England,Yorkshire and The Humber,2016/17,First degree classification,Third class honours/Pass,1590
+,Total,England,Yorkshire and The Humber,2016/17,First degree classification,Unclassified,1305
+,Total,Northern Ireland,All,2016/17,First degree classification,First class honours,2190
+,Total,Northern Ireland,All,2016/17,First degree classification,Upper second class honours,5015
+,Total,Northern Ireland,All,2016/17,First degree classification,Lower second class honours,1970
+,Total,Northern Ireland,All,2016/17,First degree classification,Third class honours/Pass,280
+,Total,Northern Ireland,All,2016/17,First degree classification,Unclassified,320
+,Total,Northern Ireland,Northern Ireland,2016/17,First degree classification,First class honours,2190
+,Total,Northern Ireland,Northern Ireland,2016/17,First degree classification,Upper second class honours,5015
+,Total,Northern Ireland,Northern Ireland,2016/17,First degree classification,Lower second class honours,1970
+,Total,Northern Ireland,Northern Ireland,2016/17,First degree classification,Third class honours/Pass,280
+,Total,Northern Ireland,Northern Ireland,2016/17,First degree classification,Unclassified,320
+,Total,Scotland,All,2016/17,First degree classification,First class honours,6960
+,Total,Scotland,All,2016/17,First degree classification,Upper second class honours,14645
+,Total,Scotland,All,2016/17,First degree classification,Lower second class honours,4945
+,Total,Scotland,All,2016/17,First degree classification,Third class honours/Pass,1015
+,Total,Scotland,All,2016/17,First degree classification,Unclassified,10085
+,Total,Scotland,Scotland,2016/17,First degree classification,First class honours,6960
+,Total,Scotland,Scotland,2016/17,First degree classification,Upper second class honours,14645
+,Total,Scotland,Scotland,2016/17,First degree classification,Lower second class honours,4945
+,Total,Scotland,Scotland,2016/17,First degree classification,Third class honours/Pass,1015
+,Total,Scotland,Scotland,2016/17,First degree classification,Unclassified,10085
+,Total,Wales,All,2016/17,First degree classification,First class honours,5330
+,Total,Wales,All,2016/17,First degree classification,Upper second class honours,10365
+,Total,Wales,All,2016/17,First degree classification,Lower second class honours,5225
+,Total,Wales,All,2016/17,First degree classification,Third class honours/Pass,1080
+,Total,Wales,All,2016/17,First degree classification,Unclassified,670
+,Total,Wales,Wales,2016/17,First degree classification,First class honours,5330
+,Total,Wales,Wales,2016/17,First degree classification,Upper second class honours,10365
+,Total,Wales,Wales,2016/17,First degree classification,Lower second class honours,5225
+,Total,Wales,Wales,2016/17,First degree classification,Third class honours/Pass,1080
+,Total,Wales,Wales,2016/17,First degree classification,Unclassified,670
+,Total,All,All,2015/16,First degree classification,First class honours,89785
+,Total,All,All,2015/16,First degree classification,Upper second class honours,189260
+,Total,All,All,2015/16,First degree classification,Lower second class honours,83595
+,Total,All,All,2015/16,First degree classification,Third class honours/Pass,19870
+,Total,All,All,2015/16,First degree classification,Unclassified,23785
+,Total,All,East Midlands,2015/16,First degree classification,First class honours,7310
+,Total,All,East Midlands,2015/16,First degree classification,Upper second class honours,15525
+,Total,All,East Midlands,2015/16,First degree classification,Lower second class honours,6850
+,Total,All,East Midlands,2015/16,First degree classification,Third class honours/Pass,1520
+,Total,All,East Midlands,2015/16,First degree classification,Unclassified,945
+,Total,All,East of England,2015/16,First degree classification,First class honours,5290
+,Total,All,East of England,2015/16,First degree classification,Upper second class honours,9600
+,Total,All,East of England,2015/16,First degree classification,Lower second class honours,4415
+,Total,All,East of England,2015/16,First degree classification,Third class honours/Pass,1135
+,Total,All,East of England,2015/16,First degree classification,Unclassified,970
+,Total,All,London,2015/16,First degree classification,First class honours,13810
+,Total,All,London,2015/16,First degree classification,Upper second class honours,28130
+,Total,All,London,2015/16,First degree classification,Lower second class honours,13950
+,Total,All,London,2015/16,First degree classification,Third class honours/Pass,3480
+,Total,All,London,2015/16,First degree classification,Unclassified,2890
+,Total,All,North East,2015/16,First degree classification,First class honours,4790
+,Total,All,North East,2015/16,First degree classification,Upper second class honours,10260
+,Total,All,North East,2015/16,First degree classification,Lower second class honours,4005
+,Total,All,North East,2015/16,First degree classification,Third class honours/Pass,895
+,Total,All,North East,2015/16,First degree classification,Unclassified,470
+,Total,All,North West,2015/16,First degree classification,First class honours,10190
+,Total,All,North West,2015/16,First degree classification,Upper second class honours,20390
+,Total,All,North West,2015/16,First degree classification,Lower second class honours,9680
+,Total,All,North West,2015/16,First degree classification,Third class honours/Pass,2400
+,Total,All,North West,2015/16,First degree classification,Unclassified,1445
+,Total,All,Northern Ireland,2015/16,First degree classification,First class honours,2080
+,Total,All,Northern Ireland,2015/16,First degree classification,Upper second class honours,4720
+,Total,All,Northern Ireland,2015/16,First degree classification,Lower second class honours,1995
+,Total,All,Northern Ireland,2015/16,First degree classification,Third class honours/Pass,345
+,Total,All,Northern Ireland,2015/16,First degree classification,Unclassified,330
+,Total,All,Scotland,2015/16,First degree classification,First class honours,6670
+,Total,All,Scotland,2015/16,First degree classification,Upper second class honours,14300
+,Total,All,Scotland,2015/16,First degree classification,Lower second class honours,5015
+,Total,All,Scotland,2015/16,First degree classification,Third class honours/Pass,920
+,Total,All,Scotland,2015/16,First degree classification,Unclassified,10235
+,Total,All,South East,2015/16,First degree classification,First class honours,12135
+,Total,All,South East,2015/16,First degree classification,Upper second class honours,27190
+,Total,All,South East,2015/16,First degree classification,Lower second class honours,11980
+,Total,All,South East,2015/16,First degree classification,Third class honours/Pass,3290
+,Total,All,South East,2015/16,First degree classification,Unclassified,2050
+,Total,All,South West,2015/16,First degree classification,First class honours,6575
+,Total,All,South West,2015/16,First degree classification,Upper second class honours,15905
+,Total,All,South West,2015/16,First degree classification,Lower second class honours,5775
+,Total,All,South West,2015/16,First degree classification,Third class honours/Pass,1055
+,Total,All,South West,2015/16,First degree classification,Unclassified,1085
+,Total,All,Wales,2015/16,First degree classification,First class honours,4630
+,Total,All,Wales,2015/16,First degree classification,Upper second class honours,10095
+,Total,All,Wales,2015/16,First degree classification,Lower second class honours,5210
+,Total,All,Wales,2015/16,First degree classification,Third class honours/Pass,1025
+,Total,All,Wales,2015/16,First degree classification,Unclassified,600
+,Total,All,West Midlands,2015/16,First degree classification,First class honours,8025
+,Total,All,West Midlands,2015/16,First degree classification,Upper second class honours,15040
+,Total,All,West Midlands,2015/16,First degree classification,Lower second class honours,7170
+,Total,All,West Midlands,2015/16,First degree classification,Third class honours/Pass,2135
+,Total,All,West Midlands,2015/16,First degree classification,Unclassified,1360
+,Total,All,Yorkshire and The Humber,2015/16,First degree classification,First class honours,8280
+,Total,All,Yorkshire and The Humber,2015/16,First degree classification,Upper second class honours,18100
+,Total,All,Yorkshire and The Humber,2015/16,First degree classification,Lower second class honours,7545
+,Total,All,Yorkshire and The Humber,2015/16,First degree classification,Third class honours/Pass,1670
+,Total,All,Yorkshire and The Humber,2015/16,First degree classification,Unclassified,1405
+,Total,England,All,2015/16,First degree classification,First class honours,76405
+,Total,England,All,2015/16,First degree classification,Upper second class honours,160145
+,Total,England,All,2015/16,First degree classification,Lower second class honours,71370
+,Total,England,All,2015/16,First degree classification,Third class honours/Pass,17580
+,Total,England,All,2015/16,First degree classification,Unclassified,12620
+,Total,England,East Midlands,2015/16,First degree classification,First class honours,7310
+,Total,England,East Midlands,2015/16,First degree classification,Upper second class honours,15525
+,Total,England,East Midlands,2015/16,First degree classification,Lower second class honours,6850
+,Total,England,East Midlands,2015/16,First degree classification,Third class honours/Pass,1520
+,Total,England,East Midlands,2015/16,First degree classification,Unclassified,945
+,Total,England,East of England,2015/16,First degree classification,First class honours,5290
+,Total,England,East of England,2015/16,First degree classification,Upper second class honours,9600
+,Total,England,East of England,2015/16,First degree classification,Lower second class honours,4415
+,Total,England,East of England,2015/16,First degree classification,Third class honours/Pass,1135
+,Total,England,East of England,2015/16,First degree classification,Unclassified,970
+,Total,England,London,2015/16,First degree classification,First class honours,13810
+,Total,England,London,2015/16,First degree classification,Upper second class honours,28130
+,Total,England,London,2015/16,First degree classification,Lower second class honours,13950
+,Total,England,London,2015/16,First degree classification,Third class honours/Pass,3480
+,Total,England,London,2015/16,First degree classification,Unclassified,2890
+,Total,England,North East,2015/16,First degree classification,First class honours,4790
+,Total,England,North East,2015/16,First degree classification,Upper second class honours,10260
+,Total,England,North East,2015/16,First degree classification,Lower second class honours,4005
+,Total,England,North East,2015/16,First degree classification,Third class honours/Pass,895
+,Total,England,North East,2015/16,First degree classification,Unclassified,470
+,Total,England,North West,2015/16,First degree classification,First class honours,10190
+,Total,England,North West,2015/16,First degree classification,Upper second class honours,20390
+,Total,England,North West,2015/16,First degree classification,Lower second class honours,9680
+,Total,England,North West,2015/16,First degree classification,Third class honours/Pass,2400
+,Total,England,North West,2015/16,First degree classification,Unclassified,1445
+,Total,England,South East,2015/16,First degree classification,First class honours,12135
+,Total,England,South East,2015/16,First degree classification,Upper second class honours,27190
+,Total,England,South East,2015/16,First degree classification,Lower second class honours,11980
+,Total,England,South East,2015/16,First degree classification,Third class honours/Pass,3290
+,Total,England,South East,2015/16,First degree classification,Unclassified,2050
+,Total,England,South West,2015/16,First degree classification,First class honours,6575
+,Total,England,South West,2015/16,First degree classification,Upper second class honours,15905
+,Total,England,South West,2015/16,First degree classification,Lower second class honours,5775
+,Total,England,South West,2015/16,First degree classification,Third class honours/Pass,1055
+,Total,England,South West,2015/16,First degree classification,Unclassified,1085
+,Total,England,West Midlands,2015/16,First degree classification,First class honours,8025
+,Total,England,West Midlands,2015/16,First degree classification,Upper second class honours,15040
+,Total,England,West Midlands,2015/16,First degree classification,Lower second class honours,7170
+,Total,England,West Midlands,2015/16,First degree classification,Third class honours/Pass,2135
+,Total,England,West Midlands,2015/16,First degree classification,Unclassified,1360
+,Total,England,Yorkshire and The Humber,2015/16,First degree classification,First class honours,8280
+,Total,England,Yorkshire and The Humber,2015/16,First degree classification,Upper second class honours,18100
+,Total,England,Yorkshire and The Humber,2015/16,First degree classification,Lower second class honours,7545
+,Total,England,Yorkshire and The Humber,2015/16,First degree classification,Third class honours/Pass,1670
+,Total,England,Yorkshire and The Humber,2015/16,First degree classification,Unclassified,1405
+,Total,Northern Ireland,All,2015/16,First degree classification,First class honours,2080
+,Total,Northern Ireland,All,2015/16,First degree classification,Upper second class honours,4720
+,Total,Northern Ireland,All,2015/16,First degree classification,Lower second class honours,1995
+,Total,Northern Ireland,All,2015/16,First degree classification,Third class honours/Pass,345
+,Total,Northern Ireland,All,2015/16,First degree classification,Unclassified,330
+,Total,Northern Ireland,Northern Ireland,2015/16,First degree classification,First class honours,2080
+,Total,Northern Ireland,Northern Ireland,2015/16,First degree classification,Upper second class honours,4720
+,Total,Northern Ireland,Northern Ireland,2015/16,First degree classification,Lower second class honours,1995
+,Total,Northern Ireland,Northern Ireland,2015/16,First degree classification,Third class honours/Pass,345
+,Total,Northern Ireland,Northern Ireland,2015/16,First degree classification,Unclassified,330
+,Total,Scotland,All,2015/16,First degree classification,First class honours,6670
+,Total,Scotland,All,2015/16,First degree classification,Upper second class honours,14300
+,Total,Scotland,All,2015/16,First degree classification,Lower second class honours,5015
+,Total,Scotland,All,2015/16,First degree classification,Third class honours/Pass,920
+,Total,Scotland,All,2015/16,First degree classification,Unclassified,10235
+,Total,Scotland,Scotland,2015/16,First degree classification,First class honours,6670
+,Total,Scotland,Scotland,2015/16,First degree classification,Upper second class honours,14300
+,Total,Scotland,Scotland,2015/16,First degree classification,Lower second class honours,5015
+,Total,Scotland,Scotland,2015/16,First degree classification,Third class honours/Pass,920
+,Total,Scotland,Scotland,2015/16,First degree classification,Unclassified,10235
+,Total,Wales,All,2015/16,First degree classification,First class honours,4630
+,Total,Wales,All,2015/16,First degree classification,Upper second class honours,10095
+,Total,Wales,All,2015/16,First degree classification,Lower second class honours,5210
+,Total,Wales,All,2015/16,First degree classification,Third class honours/Pass,1025
+,Total,Wales,All,2015/16,First degree classification,Unclassified,600
+,Total,Wales,Wales,2015/16,First degree classification,First class honours,4630
+,Total,Wales,Wales,2015/16,First degree classification,Upper second class honours,10095
+,Total,Wales,Wales,2015/16,First degree classification,Lower second class honours,5210
+,Total,Wales,Wales,2015/16,First degree classification,Third class honours/Pass,1025
+,Total,Wales,Wales,2015/16,First degree classification,Unclassified,600
+,Total,All,All,2014/15,First degree classification,First class honours,82225
+,Total,All,All,2014/15,First degree classification,Upper second class honours,185565
+,Total,All,All,2014/15,First degree classification,Lower second class honours,86565
+,Total,All,All,2014/15,First degree classification,Third class honours/Pass,20600
+,Total,All,All,2014/15,First degree classification,Unclassified,24850
+,Total,All,East Midlands,2014/15,First degree classification,First class honours,6720
+,Total,All,East Midlands,2014/15,First degree classification,Upper second class honours,15370
+,Total,All,East Midlands,2014/15,First degree classification,Lower second class honours,6615
+,Total,All,East Midlands,2014/15,First degree classification,Third class honours/Pass,1440
+,Total,All,East Midlands,2014/15,First degree classification,Unclassified,1015
+,Total,All,East of England,2014/15,First degree classification,First class honours,4415
+,Total,All,East of England,2014/15,First degree classification,Upper second class honours,9430
+,Total,All,East of England,2014/15,First degree classification,Lower second class honours,4915
+,Total,All,East of England,2014/15,First degree classification,Third class honours/Pass,1350
+,Total,All,East of England,2014/15,First degree classification,Unclassified,895
+,Total,All,London,2014/15,First degree classification,First class honours,12640
+,Total,All,London,2014/15,First degree classification,Upper second class honours,27835
+,Total,All,London,2014/15,First degree classification,Lower second class honours,14450
+,Total,All,London,2014/15,First degree classification,Third class honours/Pass,3740
+,Total,All,London,2014/15,First degree classification,Unclassified,2940
+,Total,All,North East,2014/15,First degree classification,First class honours,4135
+,Total,All,North East,2014/15,First degree classification,Upper second class honours,9680
+,Total,All,North East,2014/15,First degree classification,Lower second class honours,4500
+,Total,All,North East,2014/15,First degree classification,Third class honours/Pass,1105
+,Total,All,North East,2014/15,First degree classification,Unclassified,560
+,Total,All,North West,2014/15,First degree classification,First class honours,9655
+,Total,All,North West,2014/15,First degree classification,Upper second class honours,20015
+,Total,All,North West,2014/15,First degree classification,Lower second class honours,9985
+,Total,All,North West,2014/15,First degree classification,Third class honours/Pass,2460
+,Total,All,North West,2014/15,First degree classification,Unclassified,1400
+,Total,All,Northern Ireland,2014/15,First degree classification,First class honours,1765
+,Total,All,Northern Ireland,2014/15,First degree classification,Upper second class honours,4620
+,Total,All,Northern Ireland,2014/15,First degree classification,Lower second class honours,2175
+,Total,All,Northern Ireland,2014/15,First degree classification,Third class honours/Pass,405
+,Total,All,Northern Ireland,2014/15,First degree classification,Unclassified,320
+,Total,All,Scotland,2014/15,First degree classification,First class honours,5715
+,Total,All,Scotland,2014/15,First degree classification,Upper second class honours,13680
+,Total,All,Scotland,2014/15,First degree classification,Lower second class honours,5120
+,Total,All,Scotland,2014/15,First degree classification,Third class honours/Pass,950
+,Total,All,Scotland,2014/15,First degree classification,Unclassified,10745
+,Total,All,South East,2014/15,First degree classification,First class honours,11495
+,Total,All,South East,2014/15,First degree classification,Upper second class honours,26450
+,Total,All,South East,2014/15,First degree classification,Lower second class honours,11860
+,Total,All,South East,2014/15,First degree classification,Third class honours/Pass,3210
+,Total,All,South East,2014/15,First degree classification,Unclassified,2140
+,Total,All,South West,2014/15,First degree classification,First class honours,6175
+,Total,All,South West,2014/15,First degree classification,Upper second class honours,15975
+,Total,All,South West,2014/15,First degree classification,Lower second class honours,5885
+,Total,All,South West,2014/15,First degree classification,Third class honours/Pass,1025
+,Total,All,South West,2014/15,First degree classification,Unclassified,1225
+,Total,All,Wales,2014/15,First degree classification,First class honours,4155
+,Total,All,Wales,2014/15,First degree classification,Upper second class honours,9975
+,Total,All,Wales,2014/15,First degree classification,Lower second class honours,5710
+,Total,All,Wales,2014/15,First degree classification,Third class honours/Pass,1260
+,Total,All,Wales,2014/15,First degree classification,Unclassified,705
+,Total,All,West Midlands,2014/15,First degree classification,First class honours,7475
+,Total,All,West Midlands,2014/15,First degree classification,Upper second class honours,13935
+,Total,All,West Midlands,2014/15,First degree classification,Lower second class honours,6830
+,Total,All,West Midlands,2014/15,First degree classification,Third class honours/Pass,1880
+,Total,All,West Midlands,2014/15,First degree classification,Unclassified,1370
+,Total,All,Yorkshire and The Humber,2014/15,First degree classification,First class honours,7880
+,Total,All,Yorkshire and The Humber,2014/15,First degree classification,Upper second class honours,18605
+,Total,All,Yorkshire and The Humber,2014/15,First degree classification,Lower second class honours,8525
+,Total,All,Yorkshire and The Humber,2014/15,First degree classification,Third class honours/Pass,1770
+,Total,All,Yorkshire and The Humber,2014/15,First degree classification,Unclassified,1535
+,Total,England,All,2014/15,First degree classification,First class honours,70590
+,Total,England,All,2014/15,First degree classification,Upper second class honours,157295
+,Total,England,All,2014/15,First degree classification,Lower second class honours,73565
+,Total,England,All,2014/15,First degree classification,Third class honours/Pass,17985
+,Total,England,All,2014/15,First degree classification,Unclassified,13085
+,Total,England,East Midlands,2014/15,First degree classification,First class honours,6720
+,Total,England,East Midlands,2014/15,First degree classification,Upper second class honours,15370
+,Total,England,East Midlands,2014/15,First degree classification,Lower second class honours,6615
+,Total,England,East Midlands,2014/15,First degree classification,Third class honours/Pass,1440
+,Total,England,East Midlands,2014/15,First degree classification,Unclassified,1015
+,Total,England,East of England,2014/15,First degree classification,First class honours,4415
+,Total,England,East of England,2014/15,First degree classification,Upper second class honours,9430
+,Total,England,East of England,2014/15,First degree classification,Lower second class honours,4915
+,Total,England,East of England,2014/15,First degree classification,Third class honours/Pass,1350
+,Total,England,East of England,2014/15,First degree classification,Unclassified,895
+,Total,England,London,2014/15,First degree classification,First class honours,12640
+,Total,England,London,2014/15,First degree classification,Upper second class honours,27835
+,Total,England,London,2014/15,First degree classification,Lower second class honours,14450
+,Total,England,London,2014/15,First degree classification,Third class honours/Pass,3740
+,Total,England,London,2014/15,First degree classification,Unclassified,2940
+,Total,England,North East,2014/15,First degree classification,First class honours,4135
+,Total,England,North East,2014/15,First degree classification,Upper second class honours,9680
+,Total,England,North East,2014/15,First degree classification,Lower second class honours,4500
+,Total,England,North East,2014/15,First degree classification,Third class honours/Pass,1105
+,Total,England,North East,2014/15,First degree classification,Unclassified,560
+,Total,England,North West,2014/15,First degree classification,First class honours,9655
+,Total,England,North West,2014/15,First degree classification,Upper second class honours,20015
+,Total,England,North West,2014/15,First degree classification,Lower second class honours,9985
+,Total,England,North West,2014/15,First degree classification,Third class honours/Pass,2460
+,Total,England,North West,2014/15,First degree classification,Unclassified,1400
+,Total,England,South East,2014/15,First degree classification,First class honours,11495
+,Total,England,South East,2014/15,First degree classification,Upper second class honours,26450
+,Total,England,South East,2014/15,First degree classification,Lower second class honours,11860
+,Total,England,South East,2014/15,First degree classification,Third class honours/Pass,3210
+,Total,England,South East,2014/15,First degree classification,Unclassified,2140
+,Total,England,South West,2014/15,First degree classification,First class honours,6175
+,Total,England,South West,2014/15,First degree classification,Upper second class honours,15975
+,Total,England,South West,2014/15,First degree classification,Lower second class honours,5885
+,Total,England,South West,2014/15,First degree classification,Third class honours/Pass,1025
+,Total,England,South West,2014/15,First degree classification,Unclassified,1225
+,Total,England,West Midlands,2014/15,First degree classification,First class honours,7475
+,Total,England,West Midlands,2014/15,First degree classification,Upper second class honours,13935
+,Total,England,West Midlands,2014/15,First degree classification,Lower second class honours,6830
+,Total,England,West Midlands,2014/15,First degree classification,Third class honours/Pass,1880
+,Total,England,West Midlands,2014/15,First degree classification,Unclassified,1370
+,Total,England,Yorkshire and The Humber,2014/15,First degree classification,First class honours,7880
+,Total,England,Yorkshire and The Humber,2014/15,First degree classification,Upper second class honours,18605
+,Total,England,Yorkshire and The Humber,2014/15,First degree classification,Lower second class honours,8525
+,Total,England,Yorkshire and The Humber,2014/15,First degree classification,Third class honours/Pass,1770
+,Total,England,Yorkshire and The Humber,2014/15,First degree classification,Unclassified,1535
+,Total,Northern Ireland,All,2014/15,First degree classification,First class honours,1765
+,Total,Northern Ireland,All,2014/15,First degree classification,Upper second class honours,4620
+,Total,Northern Ireland,All,2014/15,First degree classification,Lower second class honours,2175
+,Total,Northern Ireland,All,2014/15,First degree classification,Third class honours/Pass,405
+,Total,Northern Ireland,All,2014/15,First degree classification,Unclassified,320
+,Total,Northern Ireland,Northern Ireland,2014/15,First degree classification,First class honours,1765
+,Total,Northern Ireland,Northern Ireland,2014/15,First degree classification,Upper second class honours,4620
+,Total,Northern Ireland,Northern Ireland,2014/15,First degree classification,Lower second class honours,2175
+,Total,Northern Ireland,Northern Ireland,2014/15,First degree classification,Third class honours/Pass,405
+,Total,Northern Ireland,Northern Ireland,2014/15,First degree classification,Unclassified,320
+,Total,Scotland,All,2014/15,First degree classification,First class honours,5715
+,Total,Scotland,All,2014/15,First degree classification,Upper second class honours,13680
+,Total,Scotland,All,2014/15,First degree classification,Lower second class honours,5120
+,Total,Scotland,All,2014/15,First degree classification,Third class honours/Pass,950
+,Total,Scotland,All,2014/15,First degree classification,Unclassified,10745
+,Total,Scotland,Scotland,2014/15,First degree classification,First class honours,5715
+,Total,Scotland,Scotland,2014/15,First degree classification,Upper second class honours,13680
+,Total,Scotland,Scotland,2014/15,First degree classification,Lower second class honours,5120
+,Total,Scotland,Scotland,2014/15,First degree classification,Third class honours/Pass,950
+,Total,Scotland,Scotland,2014/15,First degree classification,Unclassified,10745
+,Total,Wales,All,2014/15,First degree classification,First class honours,4155
+,Total,Wales,All,2014/15,First degree classification,Upper second class honours,9975
+,Total,Wales,All,2014/15,First degree classification,Lower second class honours,5710
+,Total,Wales,All,2014/15,First degree classification,Third class honours/Pass,1260
+,Total,Wales,All,2014/15,First degree classification,Unclassified,705
+,Total,Wales,Wales,2014/15,First degree classification,First class honours,4155
+,Total,Wales,Wales,2014/15,First degree classification,Upper second class honours,9975
+,Total,Wales,Wales,2014/15,First degree classification,Lower second class honours,5710
+,Total,Wales,Wales,2014/15,First degree classification,Third class honours/Pass,1260
+,Total,Wales,Wales,2014/15,First degree classification,Unclassified,705

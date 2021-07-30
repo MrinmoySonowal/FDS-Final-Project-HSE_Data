@@ -1,0 +1,16 @@
+﻿﻿Title,"HE qualifiers by HE provider, level of qualification obtained, classification of first degree and academic year"
+Location,UK
+Academic years,2014/15 to 2019/20
+Data source,HESA
+Data collection,"051, 054"
+Data source link,https://www.hesa.ac.uk/data-and-analysis/students/table-16
+Data file canonical link,https://www.hesa.ac.uk/data-and-analysis/students/table-16.csv
+Licence,Creative Commons Attribution 4.0 International Licence
+Code page,Unicode UTF-8
+Disclaimer,Please note that this data includes rounded totals.  Caution must be taken when importing into a pivot table so as not to double count.
+Table 2014/15 total,755495
+Table 2015/16 total,756960
+Table 2016/17 total,775535
+Table 2017/18 total,799915
+Table 2018/19 total,828350
+Table 2019/20 total,800335
